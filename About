@@ -1,226 +1,101 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html><head><title>About Us</title></head>
-<body>
-<div id="container">
-<div id="header">
-<h1>DigitQuant
-</h1>
-</div>
-<div id="navigation">
-<ul>
-<li><a href="index.html">Home</a></li>
-<li><a href="aboutus.html">About</a></li><li><a href="feedback.html"><span style="text-decoration: underline;">Feedback Form</span></a></li>
-</ul>
-</div>
-<div id="content"><span style="font-size: 10pt;"><o:p>&nbsp;</o:p></span>
-<p class="MsoNormal" style=""><b style=""><span style="font-size: 10pt;">Career Summary</span></b><span style="font-size: 10pt;"><o:p></o:p></span></p>
-<p class="MsoNormal" style="margin-left: 0.1in;"><span style="font-size: 10pt;">I have
-the ability to solve complex finance problems using both the
-statistical
-language SAS and the Python programming language.<span style="">&nbsp;<br></span>I also have experience working with customers
-and making inside and outside sales.<span style="">&nbsp;
-</span>My
-intention is to find a position that will use&nbsp;<br>both my technological
-skills and
-business experience.<o:p></o:p></span></p>
-<p class="MsoNormal"><span style="font-size: 10pt;"><o:p>&nbsp;</o:p></span></p>
-<p class="MsoNormal" style=""><b style=""><span style="font-size: 10pt;">Education<o:p></o:p></span></b></p>
-<p class="MsoNormal" style="margin-left: 0.1in;"><b style=""><span style="font-size: 10pt;"><o:p>&nbsp;</o:p></span></b></p>
-<p class="MsoNormal" style="margin-left: 0.1in;"><b style=""><span style="font-size: 10pt;">De Paul
-University, College of Computing</span></b><span style="font-size: 10pt;">, Chicago, IL<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp; </span>December
-2011<b style=""><o:p></o:p></b></span></p>
-<p class="MsoNormal" style="margin-left: 0.1in;"><b style=""><span style="font-size: 10pt;">Masters
-of
-Science</span></b><span style="font-size: 10pt;">,
-Computational Finance &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; </span><span style="font-size: 10pt;">&nbsp;
-&nbsp; GPA 3.40</span><span style="font-size: 10pt;">
-<o:p></o:p></span></p>
-<p class="MsoNormal" style="margin-left: 0.1in;"><span style="font-size: 10pt;">DePaul
-Computational Finance Group (Vice President 2008-2009)<o:p></o:p>
-<o:p></o:p></span></p>
-<br>
-<p class="MsoNormal" style="margin-left: 0.1in;"><b style=""><span style="font-size: 10pt;">The
-University of Iowa, College of
-Liberal Arts</span></b><span style="font-size: 10pt;">,
-Iowa City, IA<span style="">&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp; &nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span>2002<o:p></o:p></span></p>
-<b style=""><span style="font-size: 10pt;">&nbsp;&nbsp;&nbsp;
-Bachelor of Arts</span></b><span style="font-size: 10pt;">,
-Computer Science, Minor Business Administration</span>
-<b style=""><i style=""><span style="font-size: 10pt;"><br>
-<br>
-<br>
-<br>
-&nbsp;&nbsp;&nbsp; Relevant Coursework</span></i></b><span style="font-size: 10pt;">:<b style=""><span style="">&nbsp; </span><o:p></o:p></b></span>
-<p class="MsoNormal" style="margin-left: 0.1in;"><span style="font-size: 10pt;">Data
-Analysis and Regression, Time Series Analysis &amp; Forecasting,
-Market
-Derivatives, Monte Carlo Algorithms, Scientific Computing,&nbsp;<br>Investments,
-Portfolio Management<o:p></o:p></span></p>
-<p class="MsoNormal" style="margin-left: 0.1in;"><b style=""><i style=""><span style="font-size: 10pt;"><o:p>&nbsp;</o:p></span></i></b></p>
-<p class="MsoNormal" style="margin-left: 0.1in;"><b style=""><i style=""><span style="font-size: 10pt;">Projects</span></i></b><span style="font-size: 10pt;">:<span style="">&nbsp;
-</span><o:p></o:p></span></p>
-<p class="MsoNormal" style="margin-left: 0.1in;"><span style="font-size: 10pt;">ARCH/GARCH/EGARCH
-volatility modeling using SAS statistical programming language, Asian
-option
-pricing model using Python,&nbsp;<br>3-point and 4-point Gaussian Quadrature
-rules used
-for solving a nonlinear system implemented in Python, Midpoint and
-Trapezoid&nbsp;<br>composite rules implemented using Python, Electronic Options exchange
-built
-using C# and .NET 4.0<o:p></o:p></span></p>
-<p class="MsoNormal" style="margin-left: 0.1in;"><b style=""><i style=""><span style="font-size: 10pt;"><o:p>&nbsp;</o:p></span></i></b></p>
-<p class="MsoNormal" style="margin-left: 0.1in;"><b style=""><i style=""><span style="font-size: 10pt;">Acknowledgements</span></i></b><span style="font-size: 10pt;">:<b style=""><span style="">&nbsp; </span><span style="">&nbsp;</span><o:p></o:p></b></span></p>
-<p class="MsoNormal" style="margin-left: 0.1in;"><span style="font-size: 10pt;">&#8220;Visualization
-as a tool for understanding Quantum Chromo Dynamic (QCD) evolution
-algorithms&#8221;,
-SciDAC 2009, Massimo DiPierro<o:p></o:p></span></p>
-<p class="MsoNormal" style="margin-left: 0.1in;"><b style=""><span style="font-size: 10pt;"><o:p>&nbsp;</o:p></span></b></p>
-<p class="MsoNormal" style=""><b style=""><span style="font-size: 10pt;">Experience<o:p></o:p></span></b></p>
-<br>
-<p class="MsoNormal"><b style=""><span style="font-size: 10pt;"><span style="">&nbsp;
-</span>DePaul
-University College of Computing</span></b><span style="font-size: 10pt;">,
-Chicago, IL<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><o:p></o:p></span></p>
-<p class="MsoNormal" style=""><b style=""><span style="font-size: 10pt;"><span style="">&nbsp;
-</span>Graduate
-Assistant,</span></b><span style="font-size: 10pt;">
-<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>January
-2010 - March 2011<o:p></o:p></span></p>
-<ul style="margin-top: 0in;" type="disc">
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Reviewed homework assignments for
-Time Series Analysis &amp; Forecasting course<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Graduate Assistant for Data
-Analysis and Regression course<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Graded homework for Data Analysis
-course<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Tested students computer programs
-using both SAS and R<o:p></o:p></span></li>
-</ul>
-<p class="MsoNormal"><b style=""><span style="font-size: 10pt;"><o:p>&nbsp;</o:p></span></b></p>
-<p class="MsoNormal"><b style=""><span style="font-size: 10pt;"><span style="">&nbsp;
-</span>DePaul
-University College of Commerce</span></b><span style="font-size: 10pt;">,
-Chicago, IL <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><o:p></o:p></span></p>
-<p class="MsoNormal" style=""><b style=""><span style="font-size: 10pt;"><span style="">&nbsp;
-</span>Research
-Assistant,</span></b><span style="font-size: 10pt;">
-<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>June
-2010 &#8211; Aug. 2010<o:p></o:p></span></p>
-<ul style="margin-top: 0in;" type="disc">
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Performed operations on stock data
-sets using SAS statistical package<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Researched new ways of presenting
-16000 stock transaction records with SQL inside SAS code<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Computed average purchase price for
-individual stocks with multiple buy orders<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Matched purchase orders with
-corresponding sell orders to compute profitability<o:p></o:p></span></li>
-</ul>
-<p class="MsoNormal"><b style=""><span style="font-size: 10pt;"><o:p>&nbsp;</o:p></span></b></p>
-<p class="MsoNormal"><b style=""><span style="font-size: 10pt;"><span style="">&nbsp;
-</span>DePaul
-University College of Law</span></b><span style="font-size: 10pt;">, Chicago,
-IL <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;</span><o:p></o:p></span></p>
-<p class="MsoNormal" style=""><b style=""><span style="font-size: 10pt;"><span style="">&nbsp;
-</span>Office
-Assistant,</span></b><span style="font-size: 10pt;">
-<span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;</span>June
-2008 &#8211; Aug. 2009<o:p></o:p></span></p>
-<ul style="margin-top: 0in;" type="disc">
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Digitized past graduation
-employment surveys into access database<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Transitioned job postings and
-updated data for law firms into new employment interface<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Cleaned out miscellaneous data
-created during transfer into new web site<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Posted new jobs for law students
-and alumni into employment web framework<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Researched alumni in Chicago area
-law firms for student outreach program<o:p></o:p></span></li>
-</ul>
-<span style="font-size: 10pt; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"></span><span style="font-size: 10pt;"><o:p>&nbsp;</o:p></span>
-<p class="MsoNormal"><b style=""><span style="font-size: 10pt;">AON</span></b><span style="font-size: 10pt;">,
-Chicago, IL <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><o:p></o:p></span></p>
-<p class="MsoNormal" style=""><b style=""><span style="font-size: 10pt;">Customer Acquisition Specialist</span></b><span style="font-size: 10pt;">, <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>December
-2005 - June 2007</span></p>
-<ul style="margin-top: 0in;" type="disc">
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Sold the combined connections
-savings card, to existing combined insurance customers<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Contacted customers directly
-through outbound calls and recorded and tracked daily sales<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Explained the benefits of the
-product and potential savings on monthly bills<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Consistently met and exceeded sales
-goals, averaging eight sales per day<o:p></o:p></span></li>
-</ul>
-<p class="MsoNormal"><b style=""><span style="font-size: 10pt;"><o:p>&nbsp;</o:p></span></b></p>
-<p class="MsoNormal"><b style=""><span style="font-size: 10pt;">Capital Assurance Group</span></b><span style="font-size: 10pt;">, Chicago, IL <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><o:p></o:p></span></p>
-<p class="MsoNormal" style=""><b style=""><span style="font-size: 10pt;">Appointment Setter</span></b><span style="font-size: 10pt;">, <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>May
-2004 &#8211; December 2005<o:p></o:p></span></p>
-<ul style="margin-top: 0in;" type="disc">
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Gathered information from customer
-about their financial situation and mortgage needs<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Scheduled time for the customer to
-meet for free evaluation with loan officer<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Rescheduled appointments for
-customer to meet with loan officer when necessary<o:p></o:p></span></li>
-</ul>
-<p class="MsoNormal"><b style=""><span style="font-size: 10pt;"><o:p>&nbsp;</o:p></span></b></p>
-<p class="MsoNormal"><b style=""><span style="font-size: 10pt;">First Capital Mortgage</span></b><span style="font-size: 10pt;">, Chicago, IL <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><o:p></o:p></span></p>
-<p class="MsoNormal" style=""><b style=""><span style="font-size: 10pt;">Senior Loan Officer</span></b><span style="font-size: 10pt;">, <span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span><span style="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>July
-2003 - April 2004<o:p></o:p></span></p>
-<ul style="margin-top: 0in;" type="disc">
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Evaluated customer credit
-worthiness and calculated appropriate loan program<o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Negotiated interested rate between
-customer and lender <o:p></o:p></span></li>
-<li class="MsoNormal" style=""><span style="font-size: 10pt;">Coordinated proper paper work
-throughout the loan process<o:p></o:p></span></li>
-</ul>
-<p class="MsoNormal"><b style=""><span style="font-size: 10pt;"><o:p>&nbsp;</o:p></span></b></p>
-<p class="MsoNormal" style=""><b style=""><span style="font-size: 10pt;">Computer Skills<o:p></o:p></span></b></p>
-<p class="MsoNormal" style="margin-left: 0.1in;"><span style="font-size: 10pt;">Python,
-R, SAS, C++,C#, Java, HTML, SQL, Prolog, SML of New Jersey, Pascal,
-Basic, Unix,
-Linux, Windows, Microsoft Office,&nbsp;<br>Adobe Acrobat, Visual Studio, Cold
-Fusion</span></p>
-<p class="MsoNormal" style="margin-left: 0.1in;"></p>
-</div>
-<div id="footer">Copyright © DigitQuant, 2013<br><br><br>
-</div>
-</div>
-</body></html>
+Education
+
+De Paul University, College of Computing, Chicago, IL                                                          December 2011
+Masters of Science, Computational Finance                                                                                         GPA 3.40
+
+DePaul Computational Finance Group (Vice President 2008-2009)
+
+The University of Iowa, College of Liberal Arts, Iowa City, IA                                                                2002
+    Bachelor of Arts, Computer Science, Minor Business Administration
+
+Relevant Coursework: 
+Data Analysis and Regression, Time Series Analysis & Forecasting, Market Derivatives, Monte Carlo Algorithms, Scientific Computing, 
+Investments, Portfolio Management
+
+Projects: 
+
+ARCH/GARCH/EGARCH volatility modeling using SAS statistical programming language, Asian option pricing model using Python, 
+3-point and 4-point Gaussian Quadrature rules used for solving a nonlinear system implemented in Python, Midpoint and Trapezoid 
+composite rules implemented using Python, Electronic Options exchange built using C# and .NET 4.0
+
+ 
+
+Acknowledgements:   
+
+“Visualization as a tool for understanding Quantum Chromo Dynamic (QCD) evolution algorithms”, SciDAC 2009, Massimo DiPierro
+
+ 
+
+Experience
+
+  DePaul University College of Computing, Chicago, IL                                      
+
+  Graduate Assistant,                                                                                                      January 2010 - March 2011
+
+    Reviewed homework assignments for Time Series Analysis & Forecasting course
+    Graduate Assistant for Data Analysis and Regression course
+    Graded homework for Data Analysis course
+    Tested students computer programs using both SAS and R
+
+ 
+
+  DePaul University College of Commerce, Chicago, IL                                               
+
+  Research Assistant,                                                                                                               June 2010 – Aug. 2010
+
+    Performed operations on stock data sets using SAS statistical package
+    Researched new ways of presenting 16000 stock transaction records with SQL inside SAS code
+    Computed average purchase price for individual stocks with multiple buy orders
+    Matched purchase orders with corresponding sell orders to compute profitability
+
+ 
+
+  DePaul University College of Law, Chicago, IL                                                         
+
+  Office Assistant,                                                                                                                 June 2008 – Aug. 2009
+
+    Digitized past graduation employment surveys into access database
+    Transitioned job postings and updated data for law firms into new employment interface
+    Cleaned out miscellaneous data created during transfer into new web site
+    Posted new jobs for law students and alumni into employment web framework
+    Researched alumni in Chicago area law firms for student outreach program
+
+ 
+
+AON, Chicago, IL                                                                                                           
+
+Customer Acquisition Specialist,                                                                               December 2005 - June 2007
+
+    Sold the combined connections savings card, to existing combined insurance customers
+    Contacted customers directly through outbound calls and recorded and tracked daily sales
+    Explained the benefits of the product and potential savings on monthly bills
+    Consistently met and exceeded sales goals, averaging eight sales per day
+
+ 
+
+Capital Assurance Group, Chicago, IL                                                                    
+
+Appointment Setter,                                                                                                      May 2004 – December 2005
+
+    Gathered information from customer about their financial situation and mortgage needs
+    Scheduled time for the customer to meet for free evaluation with loan officer
+    Rescheduled appointments for customer to meet with loan officer when necessary
+
+ 
+
+First Capital Mortgage, Chicago, IL                                                                                   
+
+Senior Loan Officer,                                                                                                               July 2003 - April 2004
+
+    Evaluated customer credit worthiness and calculated appropriate loan program
+    Negotiated interested rate between customer and lender
+    Coordinated proper paper work throughout the loan process
+
+ 
+
+Computer Skills
+
+Python, R, SAS, C++,C#, Java, HTML, SQL, Prolog, SML of New Jersey, Pascal, Basic, Unix, Linux, Windows, Microsoft Office, 
+Adobe Acrobat, Visual Studio, Cold Fusion
+
+Copyright © DigitQuant, 2013
